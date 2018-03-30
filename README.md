@@ -1,19 +1,20 @@
-# Node_js
-
+# Node_js 參考書籍
+```
 Node.js模組參考手冊[好書從頭執行一次]
 作者： 錢逢祥, 蔡政崇, 楊傑文   出版社：松崗  
 http://www.books.com.tw/products/0010671565
-
+```
+```
 Node開發實戰詳解[簡體字]
 作者： 黃丹華  出版社：清華大學出版社
 http://www.books.com.tw/products/CN11106390
-
+``````
 新時期的Node.js入門
 作者： 李鍇著 出版社：清華大學出版社 出版日期：2018/01/01
 https://github.com/Yuki-Minakami
 https://github.com/Yuki-Minakami/BookExample
 http://www.books.com.tw/products/CN11505301
-
+```
 
 Node.js實戰(第2季)
 作者： 吳中驊 出版社：電子工業出版社
@@ -34,10 +35,12 @@ https://github.com/nswbmw/N-club
 https://github.com/leizongmin/book-nodejs-in-action-season-2
 第7章：使用Node.js綁定C語言庫--51Degrees.node
 https://github.com/51Degrees/Device-Detection
-
+```
+```
 作者網站有很多課本沒有的資料
 https://github.com/leizongmin/connect-limit-requests
-
+```
+```
 Node.js實戰(第1版)
 第1章、第2章：使用Express + MongoDB搭建多人博客
 第3章：使用Redis搭建漂流瓶服务器
@@ -45,8 +48,9 @@ Node.js實戰(第1版)
 第5章：使用socket.io+Angular打造单页应用
 第6章：网络爬虫与数据操作
 第7、8、9章：Node.js的进程与线程，发布一个Package，Web安全实战
+```
 
-==============================================
+```
 Node.js的九堂實作課[主題正確待測試] Node.js實戰(第1版)台灣版
 作者： 趙坤, 寸志, 雷宗民, 吳中驊  譯者： 許郁文
 出版社：碁峰  出版日期：2015/06/24
@@ -78,7 +82,9 @@ http://www.books.com.tw/products/0010679787
 
 第9章｜Web 安全實戰
 本章涵蓋了用Node.js進行Web開發可能面臨的各種安全性漏洞，透過對各種Web攻擊實例的分析，讓讀者對Web安全有更全面和深入的認識。
+```
 
+```
 深入淺出Node.js
 作者： 朴靈/編著  出版社：博碩  出版日期：2014/07/29
 
@@ -98,6 +104,8 @@ Appendix B Appendix偵錯Node
 Appendix C Node設計規範
 Appendix D 建構區域NPM倉庫
 
+```
+```
 ===========尚未整理====================
 Node.js開發實戰
 作者： 忽如寄 出版社：清華大學出版社 出版日期：2018/01/01
@@ -121,4 +129,4 @@ Node.js in Practice
 作者： （美）亞歷克斯·榮，（美）馬克·哈特 出版社：電子工業出版社
 出版日期：2017/01/01
 http://www.books.com.tw/products/CN11401628
-
+```
